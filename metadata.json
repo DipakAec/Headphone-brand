@@ -1,0 +1,6 @@
+{
+  "name": "AURA FLOW 01 | Spatial Acoustic 3D Experience",
+  "description": "An interactive 3D product showcase with continuous scroll-driven camera choreography, exploded engineering views, real-time procedural PBR materials, and spatial acoustic simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
